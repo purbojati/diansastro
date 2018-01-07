@@ -1728,29 +1728,30 @@ h3.reply-title{
 }
 
 @media (max-width:479px){
-#main{background:#fff}
-	nav select,nav ul{
-		border:none
+	#main{background:#fff}
+		nav select,nav ul{
+			border:none
+		}
+
+	.entry, .kit{padding:0px;}
+
+	.dcl-disqus-thread {
+		padding: 10px;
 	}
 
-.entry, .kit{padding:0px;}
+	#adatas,#header-right,.sPinterest,nav ul{
+			display:none
+		}
+		
+	.cage{padding: 8px}
 
-.dcl-disqus-thread {
-    padding: 10px;
-}
-
-#adatas,#header-right,.sPinterest,nav ul{
-		display:none
+	.dhoma2 .dh4{
+		border: none;
+		border-bottom: thin solid #ddd;
+		padding: 24px 0px;
+		margin: 0px;
+		box-shadow:none;
 	}
-	
-.cage{padding: 8px}
-
-.dhoma2 .dh4{
-	border: none;
-	border-bottom: thin solid #ddd;
-	padding: 24px 0px;
-	margin: 0px;
-}
 
 	#fblike,#header,#wrap,.container,nav select{
 		width:100%
@@ -1867,6 +1868,7 @@ h3.reply-title{
 	background: none;
     width: calc(100% - 164px) !important;
     text-align: left;
+	box-shadow:none;
 	}
 
 
