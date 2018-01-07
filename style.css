@@ -482,7 +482,11 @@ h1.stitle{
 }
 
 #sidebar h3.title{
-	color:#fff;background:-webkit-linear-gradient(45deg,#2B98E0 0,#14BDCE 50%,#00E0BE 100%);padding:6px 6px 6px 10px;text-align:left;vertical-align:middle;border-right:8px solid #bdc3c7;text-transform:uppercase
+	color: #4da7e0;
+    padding: 3px 6px 15px 10px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 25px;
 }
 
 #sidebar h3.title:hover{
