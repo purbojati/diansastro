@@ -21,19 +21,16 @@
         <?php
     }?>
     <?php wp_head(); ?>
-     <style>
-        <?php minify('https://www.arenalaptop.com/wp-content/themes/diansastro/style.css'); ?>
-    </style>
+    <style><?php minify('https://www.arenalaptop.com/wp-content/themes/diansastro/style.css'); ?></style>
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-56390965-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-56390965-1');
-</script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-56390965-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'UA-56390965-1');
+	</script>
 
 </head>
 
@@ -51,7 +48,7 @@
                         <div class="bar3"></div>
                     </div>
                     <div id="perawandesa">
-                        <img src="<?php echo get_template_directory_uri() ?>/img/loop-icon.png">
+                        <img src="/wp-content/themes/diansastro/img/loop-icon.png" alt="Search">
                     </div>
                     <nav id="resmenu" class="pop_up">
                         <?php wp_nav_menu( array( 'theme_location' => 'main-menu 1', 'menu_class' => 'menu' , 'fallback_cb' => '' ) ); ?>

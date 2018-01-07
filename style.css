@@ -238,7 +238,7 @@ body{
 }
 
 .search-text{
-	font-family:inherit; font-size:14px; float: right;color:#444; outline:0; width:300px; border:none;  background:#e7e7e7  url('/wp-content/themes/diansastrov2/img/search.png') right no-repeat ; background-position:calc(100% - 6px) 50%; transition: 0.3s ease; padding: 8px; padding-right: 38px; box-sizing:border-box; opacity:0.72; border-radius:3px; margin-top:4px;
+	font-family:inherit; font-size:14px; float: right;color:#444; outline:0; width:300px; border:none;  background:#e7e7e7  url('/wp-content/themes/diansastro/img/loop-icon.png') right no-repeat ; background-position:calc(100% - 6px) 50%; transition: 0.3s ease; padding: 8px; padding-right: 38px; box-sizing:border-box; opacity:0.72; border-radius:3px; margin-top:4px;
 }
 
 ::-webkit-input-placeholder {
