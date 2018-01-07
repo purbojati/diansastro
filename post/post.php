@@ -33,9 +33,12 @@
 		<script>
 		     (adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
+	</div>
+	<div class="kit">
 		<div class="related_posts">
 			<?php get_template_part( 'related' ); ?>
 		</div>
+	
 		<div class='clearfix'></div>
 	</div>
 	<div class="kit">
