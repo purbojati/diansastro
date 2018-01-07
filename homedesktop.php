@@ -249,9 +249,12 @@ margin-top:50px;
 		<div class="brandwrapper split">
 			<h3>Berdasarkan Grafis</h3>
 			<div class="katbox">
-				<a href="https://www.arenalaptop.com/sort/vga-intel-hd/">Intel HD</a>
-				<a href="https://www.arenalaptop.com/sort/vga-nvidia/">Nvidia</a>
+				<a href="https://www.arenalaptop.com/sort/vga-intel-hd/">VGA Intel HD</a>
+				<a href="https://www.arenalaptop.com/sort/vga-nvidia/">VGA Nvidia</a>
+				<a href="https://www.arenalaptop.com/sort/vga-amd/">VGA AMD</a>
 				<a href="https://www.arenalaptop.com/list/harga-laptop-13-inch/">Layar 13"</a>
+				<a href="https://www.arenalaptop.com/sort/layar-14/">Layar 14"</a>
+				<a href="https://www.arenalaptop.com/sort/layar-15/">Layar 15"</a>
 				<div class="clearfix"></div>
 			</div>
 		</div>

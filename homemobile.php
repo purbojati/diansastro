@@ -213,7 +213,10 @@ text-align:center;
 				<a href="https://www.arenalaptop.com/sort/intel-core-i7/">Core i7</a>
 				<a href="https://www.arenalaptop.com/sort/vga-intel-hd/">VGA Intel HD</a>
 				<a href="https://www.arenalaptop.com/sort/vga-nvidia/">VGA Nvidia</a>
+				<a href="https://www.arenalaptop.com/sort/vga-amd/">VGA AMD</a>
 				<a href="https://www.arenalaptop.com/list/harga-laptop-13-inch/">Layar 13"</a>
+				<a href="https://www.arenalaptop.com/sort/layar-14/">Layar 14"</a>
+				<a href="https://www.arenalaptop.com/sort/layar-15/">Layar 15"</a>
 				<div class="clearfix"></div>
 			</div>
 		</div>
