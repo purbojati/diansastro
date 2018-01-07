@@ -223,15 +223,15 @@ margin-top:50px;
 		<h3>Produk Berdasarkan Brand</h3>
 		<a href="https://www.arenalaptop.com/list/laptop-acer/"><img src="https://www.arenalaptop.com/wp-content/uploads/2017/07/brand-acer.png"></a>
 		<a href="https://www.arenalaptop.com/list/harga-laptop-asus/"><img src="<?php echo get_template_directory_uri() ?>/img/ico/brand-asus.png"></a>
-		<a href="https://www.arenalaptop.com/category/apple/"><img src="https://www.arenalaptop.com/wp-content/uploads/2017/07/brand-apple.png"></a>
+		<a href="https://www.arenalaptop.com/1139/harga-laptop-apple/"><img src="https://www.arenalaptop.com/wp-content/uploads/2017/07/brand-apple.png"></a>
 		<a href="https://www.arenalaptop.com/454/harga-laptop-asus-rog-gaming/"><img src="https://www.arenalaptop.com/wp-content/uploads/2017/10/rog-logo.png"></a>
-		<a href="https://www.arenalaptop.com/category/dell/"><img src="https://www.arenalaptop.com/wp-content/uploads/2017/07/brand-dell.png"></a>
-		<a href="https://www.arenalaptop.com/category/hp/"><img src="https://www.arenalaptop.com/wp-content/uploads/2017/07/brand-hp.png"></a>
+		<a href="https://www.arenalaptop.com/379/harga-laptop-dell/"><img src="https://www.arenalaptop.com/wp-content/uploads/2017/07/brand-dell.png"></a>
+		<a href="https://www.arenalaptop.com/524/harga-laptop-hp/"><img src="https://www.arenalaptop.com/wp-content/uploads/2017/07/brand-hp.png"></a>
 		<a href="https://www.arenalaptop.com/list/harga-laptop-lenovo-3/"><img src="https://www.arenalaptop.com/wp-content/uploads/2017/07/brand-lenovo.png"></a>
-		<a href="https://www.arenalaptop.com/category/msi/"><img src="https://www.arenalaptop.com/wp-content/uploads/2017/07/brand-msi.png"></a>
+		<a href="https://www.arenalaptop.com/469/harga-laptop-msi-gaming/"><img src="https://www.arenalaptop.com/wp-content/uploads/2017/07/brand-msi.png"></a>
 		<a href="#"><img src="<?php echo get_template_directory_uri() ?>/img/ico/brand-samsung.png"></a>
 		<a href="#"><img src="https://www.arenalaptop.com/wp-content/uploads/2017/07/brand-toshiba.png"></a>
-		<a href="https://www.arenalaptop.com/category/xenom/"><img src="https://www.arenalaptop.com/wp-content/uploads/2017/07/brand-xenom.png"></a>
+		<a href="https://www.arenalaptop.com/507/harga-laptop-xenom-gaming/"><img src="https://www.arenalaptop.com/wp-content/uploads/2017/07/brand-xenom.png"></a>
 		<a href="https://www.arenalaptop.com/category/xiaomi/"><img src="<?php echo get_template_directory_uri() ?>/img/ico/brand-xiaomi.png"></a>
 		<div class="clearfix"></div>
 	</div>
