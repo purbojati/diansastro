@@ -241,6 +241,7 @@ margin-top:50px;
 			<h3>Berdasarkan Processor</h3>
 			<div class="katbox">
 			<a href="https://www.arenalaptop.com/sort/processor-amd/">AMD</a>
+			<a href="https://www.arenalaptop.com/sort/intel-core-m/">Core M</a>
 			<a href="https://www.arenalaptop.com/sort/intel-celeron/">Celeron</a>
 			<a href="https://www.arenalaptop.com/sort/intel-core-i3/">Core i3</a>
 			<a href="https://www.arenalaptop.com/sort/intel-core-i5/">Core i5</a>
