@@ -22,7 +22,7 @@
     }?>
     <?php wp_head(); ?>
      <style>
-        <?php minify('https://cloud.arenalaptop.com/wp-content/themes/diansastrov2/style.css'); ?>
+        <?php minify('https://cloud.arenalaptop.com/wp-content/themes/diansastro/style.css'); ?>
     </style>
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
