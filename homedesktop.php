@@ -111,12 +111,13 @@ margin:0px;
 }
 
 .split a{
-	width: auto;
-	padding: 8px 16px;
-	height: auto;
-	color: #2A9AE0;
-	border: thin solid #2A9AE0;
-	margin-right: 8px;
+    width: auto;
+    padding: 8px 15px;
+    height: auto;
+    color: #2A9AE0;
+    border: thin solid #2A9AE0;
+    margin-right: 2%;
+    margin-bottom: 2%;
 }
 
 .split a:hover{
