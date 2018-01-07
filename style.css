@@ -954,11 +954,17 @@ h3.reply-title{
 
 
 #related-apps-container h3, #related-product-container h3{
-	margin:0 auto;
-	width:900px;
-	font-weight:normal;
-	margin-bottom: 10px;
-	max-width:100%
+	margin: 0 auto;
+    width: 900px;
+    font-weight: normal;
+    margin-bottom: 10px;
+    max-width: 100%;
+    background: #a42db4;
+    background: -webkit-linear-gradient(left, #a42db4, #e45d61);
+    background: linear-gradient(to right, #a42db4 , #e45d61);
+    background-repeat: repeat-x;
+    padding: 10px;
+    color: #fff;
 }
 
 .dhoma{
@@ -1096,7 +1102,8 @@ h3.reply-title{
 	text-transform: none;
 	opacity: 1;
 	font-weight: bold;
-	background: #D01759;
+	background: #ff2179;
+    box-shadow: 0 5px 25px rgba(255,33,121,.3);
 	padding:8px;
 	margin-bottom:8px;
 	text-align:center;
