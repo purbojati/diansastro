@@ -240,10 +240,11 @@ margin-top:50px;
 		<div class="brandwrapper split">
 			<h3>Berdasarkan Processor</h3>
 			<div class="katbox">
-<a href="https://www.arenalaptop.com/sort/intel-celeron/">Celeron</a>
-<a href="https://www.arenalaptop.com/sort/intel-core-i3/">Core i3</a>
-<a href="https://www.arenalaptop.com/sort/intel-core-i5/">Core i5</a>
-<a href="https://www.arenalaptop.com/sort/intel-core-i7/">Core i7</a>
+			<a href="https://www.arenalaptop.com/sort/processor-amd/">AMD</a>
+			<a href="https://www.arenalaptop.com/sort/intel-celeron/">Celeron</a>
+			<a href="https://www.arenalaptop.com/sort/intel-core-i3/">Core i3</a>
+			<a href="https://www.arenalaptop.com/sort/intel-core-i5/">Core i5</a>
+			<a href="https://www.arenalaptop.com/sort/intel-core-i7/">Core i7</a>
 				<div class="clearfix"></div>
 			</div>
 		</div>
@@ -253,6 +254,7 @@ margin-top:50px;
 				<a href="https://www.arenalaptop.com/sort/vga-intel-hd/">VGA Intel HD</a>
 				<a href="https://www.arenalaptop.com/sort/vga-nvidia/">VGA Nvidia</a>
 				<a href="https://www.arenalaptop.com/sort/vga-amd/">VGA AMD</a>
+				<a href="https://www.arenalaptop.com/sort/layar-11/">Layar 11"</a>
 				<a href="https://www.arenalaptop.com/list/harga-laptop-13-inch/">Layar 13"</a>
 				<a href="https://www.arenalaptop.com/sort/layar-14/">Layar 14"</a>
 				<a href="https://www.arenalaptop.com/sort/layar-15/">Layar 15"</a>
