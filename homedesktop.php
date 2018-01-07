@@ -171,7 +171,9 @@ width:124px;
 height:69.75px;
 object-fit: cover;
 margin-right:8px;
+border-radius: 5px;
 }
+
 .post a{
 display:block;
 font-size:16px;

@@ -445,7 +445,7 @@ h1.stitle{
 }
 
 .related_posts .thumb{
-	float:left;width:100px;height:80px;margin-right:10px;overflow:hidden
+	float:left;width:100px;height:80px;margin-right:10px;overflow:hidden;border-radius: 5px;
 }
 
 .related_posts h3{
