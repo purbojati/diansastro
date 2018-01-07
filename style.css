@@ -385,6 +385,7 @@ h1.stitle{
 	border-right:10px solid #bdc3c7;
 	width:100%;
 	box-sizing:border-box;
+	text-align:center;
 }
 
 .rt{
@@ -600,7 +601,7 @@ h1.stitle{
 }
 
 #footerbar{
-	width:100%;background:#ecf0f1; padding:15px 0 15px 20px;display:block;border-top:5px solid #ddd;margin: auto; min-height:100px; box-sizing:border-box; margin-top: 0;
+	width:100%;background:#ecf0f1; padding:15px 0 15px 20px;display:block;border-top:3px solid #ddd;margin: auto; min-height:100px; box-sizing:border-box; margin-top: 10;
 }
 
 #footerwrap{
@@ -961,23 +962,25 @@ h3.reply-title{
 
 #related-apps-container, #related-product-container{
 	background: #fff;
-	padding: 16px;
-	margin: 16px 0px;
+    padding: 10px;
+    margin: 15px auto 15px auto;
+    max-width: 900px;
+    border: none;
 }
 
 
 #related-apps-container h3, #related-product-container h3{
-	margin: 0 auto;
-    width: 900px;
-    font-weight: normal;
+	width: 100%;
+    font-weight: bold;
     margin-bottom: 10px;
-    max-width: 100%;
-    background: #a42db4;
-    background: -webkit-linear-gradient(left, #a42db4, #e45d61);
-    background: linear-gradient(to right, #a42db4 , #e45d61);
+    max-width: 900px;
+    background: #2c99e0;
+    background: -webkit-linear-gradient(left, #2c99e0 , #cce9ff);
+    background: linear-gradient(to right, #2c99e0 , #cce9ff);
     background-repeat: repeat-x;
-    padding: 10px;
+    padding: 10px 0px 10px 0px;
     color: #fff;
+    text-align: center;
 }
 
 .dhoma{
