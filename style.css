@@ -306,6 +306,8 @@ a.belitable{
 	color: #787878;
 	background: #fff;
 	padding:10px;
+	margin: 0 auto;
+    max-width: 900px;
 }
 
 #content .entry a:link,#content .entry a:visited{
@@ -1733,11 +1735,14 @@ h3.reply-title{
 
 .entry, .kit{padding:0px;}
 
+.dcl-disqus-thread {
+    padding: 10px;
+}
+
 #adatas,#header-right,.sPinterest,nav ul{
 		display:none
 	}
-
-
+	
 .cage{padding: 8px}
 
 .dhoma2 .dh4{
