@@ -86,19 +86,26 @@ a:hover{
 	color:#4b7eaf
 }
 h1{
-	font-size:17px
+	font-size:2em
 }
 
-h2,h3{
-	font-size:16px
+h2{font-size:1.5em
+}
+
+h3{
+	font-size:1.17em
 }
 
 h4{
-	font-size:15px
+	font-size:1.12em
 }
 
-h5,h6{
-	font-size:12px
+h5{
+	font-size:.83em
+}
+
+h6{
+	font-size:.75em
 }
 
 p{
@@ -1185,11 +1192,11 @@ h3.reply-title{
 
 .pagination a:hover{
     background: #bbb;
-		color:#fff;
+	color:#fff;
 }
 
 .pagination .current{
-    background: #777;
+    background: #666;
 }
 
 .blk{
@@ -1608,7 +1615,7 @@ h3.reply-title{
 		box-sizing:border-box;
 	}
 	.related_posts h4{
-		color:#333;font-size:14px;margin-bottom:5px
+		color:#333;font-size:1.12em;margin-bottom:5px
 	}
 
 	#apps-container{
