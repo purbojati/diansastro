@@ -1260,15 +1260,18 @@ h3.reply-title{
 }
 
 #product-container span:nth-child(2) #offering a{
-	background: #D01759;
-	display: block;
-	color: #fff;
-	float: right;
-	width: 80px;
-	text-align: center;
-	padding: 10px;
-	letter-spacing: 2px;
-	text-transform: uppercase;
+	background: #ff2179;
+    box-shadow: 0 5px 25px rgba(255,33,121,.3);
+    display: block;
+    color: #fff;
+    float: right;
+    width: 80px;
+    text-align: center;
+    padding: 10px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    border-radius: 2px;
+    font-weight: bold;
 }
 
 #product-container span:nth-child(2) #offering b{
