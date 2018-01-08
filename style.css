@@ -266,7 +266,7 @@ body{
 }
 
 .post h2{
-	font-size:20px;line-height:28px;margin-bottom:10px;color:#2C3E50
+	line-height:28px;margin-bottom:10px;color:#2C3E50
 }
 
 .post:first-child{
@@ -364,14 +364,15 @@ h1.stitle{
 }
 
 .entry h2{
-	font-size:17px;margin:5px 0
+	margin:5px 0
 }
 
 .entry h3, .rs{
-	font-size:22px;color: #d01759; font-weight: 900; background: -webkit-linear-gradient(45deg, #b03ffc 0%,#00bcfe 50%,#00bcfe 100%);-webkit-background-clip: text; -webkit-text-fill-color: transparent;line-height:30px;padding-top:10px;text-align:left
+	color: #d01759; font-weight: 900; background: -webkit-linear-gradient(45deg, #b03ffc 0%,#00bcfe 50%,#00bcfe 100%);-webkit-background-clip: text; -webkit-text-fill-color: transparent;line-height:30px;padding-top:10px;text-align:left
 }
 
-.entry h4{    color: #269ae2;
+.entry h4{    
+	color: #269ae2;
     font-weight: 900;
     background: -webkit-linear-gradient(45deg, #269ae2 0%,#00d8c1 50%,#00dcc0 100%);
     -webkit-background-clip: text;
