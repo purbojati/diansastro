@@ -1,7 +1,8 @@
 <div id="main">
 	<?php if (function_exists ('adinserter')) echo adinserter (11); ?>
 	<div id="content">
-		<h2 class="atit">Harga Laptop Semua Merk<?php single_cat_title(); ?></h2>
+		<h2 class="atit">Harga Laptop Semua Merk</h2> 
+		<h5>Kategori: <?php single_cat_title(); ?></h5>
 		<?php
 		require get_template_directory() . '/products/grab-product.php';
 		?>

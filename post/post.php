@@ -1,15 +1,15 @@
 <div id="main">
 	<div id="content">
 		<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
-<div class="entry">
-      <h1 class="stitle"><?php the_title(); ?></h1>
+			<div class="entry">
+      			<h1 class="stitle"><?php the_title(); ?></h1>
 
- 					<?php if (function_exists ('adinserter')) echo adinserter (5); ?>
- 					<?php the_content(); ?>
- 					<?php if( function_exists( 'wptopc' ) ){ wptopc("","<table><tr><th>DAFTAR ISI :</table></tr></th>"); } ?>
-<div><?php if (function_exists ('adinserter')) echo adinserter (4); ?>
-<?php if (function_exists ('adinserter')) echo adinserter (10); ?></div>
- 				</div>
+ 				<?php if (function_exists ('adinserter')) echo adinserter (5); ?>
+ 			<?php the_content(); ?>
+ 				<?php if( function_exists( 'wptopc' ) ){ wptopc("","<table><tr><th>DAFTAR ISI :</table></tr></th>"); } ?>
+				<div><?php if (function_exists ('adinserter')) echo adinserter (4); ?>
+				<?php if (function_exists ('adinserter')) echo adinserter (10); ?></div>
+ 			</div>
 
 		<?php if (function_exists ('adinserter')) echo adinserter (6); ?>
 		<?php if (function_exists ('adinserter')) echo adinserter (9); ?>
