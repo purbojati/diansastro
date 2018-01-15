@@ -4,7 +4,7 @@
 <div id="main">
 	<div id="content">
 		<h2 class="atit">Harga Laptop Semua Merk</h2> 
-		<h5>Kategori: <?php single_cat_title(); ?></h5>
+		<h5>Kategori <?php single_cat_title(); ?></h5>
 		<?php
 		require get_template_directory() . '/products/grab-product.php';
 		?>
