@@ -1,5 +1,7 @@
+<?php get_header(); ?>
+<?php if (function_exists ('adinserter')) echo adinserter (8); ?>
+<div class="clearfix"></div>
 <div id="main">
-	<?php if (function_exists ('adinserter')) echo adinserter (11); ?>
 	<div id="content">
 		<h2 class="atit">Harga Laptop Semua Merk</h2> 
 		<h5>Kategori: <?php single_cat_title(); ?></h5>
